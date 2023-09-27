@@ -1,2 +1,2 @@
 # GenrativeAI_course
-Assignment done in the GenAI course CSYE7380
+GenAI course CSYE7380 Assignments
